@@ -2,7 +2,7 @@
 
 The Product Development Tools Initiative is a centrally funded initiative led by the CIO Office and the Core Engineering Productivity teams, in partnership with [Open Access](https://docs.developer.tech.gov.sg/docs/open-data-access/). 
 
-Laaunching its pilot phase in FY24, it aims to streamline and centralise the provision of essential product development tools by introducing a standardised suite of tools for eligible roles within GovTech product teams. These tools will be made available to eligible GovTechies upon onboarding, reducing delays and allowing teams to focus on their core task of building impactful products.
+Launching its pilot phase in FY24, it aims to streamline and centralise the provision of essential product development tools by introducing a standardised suite of tools for eligible roles within GovTech product teams. These tools will be made available to eligible GovTechies upon onboarding, reducing delays and allowing teams to focus on their core task of building impactful products.
 
 ## What are the benefits?
 
