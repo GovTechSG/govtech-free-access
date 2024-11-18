@@ -1,6 +1,6 @@
 # Product Development Tools Pilot Initiative
 
-The Product Development Tools Initiative aims to simplify and centralise access to essentional development tools for GovTech product teams, streamlining workflows and reducing barriers to productivity..
+The Product Development Tools Initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows and reducing barriers to productivity..
 
 Launching in FY24, these tools will be made available to eligible GovTechies upon onboarding, reducing delays and allowing teams to focus on their core task of building impactful products.
 

@@ -33,7 +33,7 @@
 
 - **Are contractors eligible for the Centrally Funded Product Development Tools initiative?**
 
-    No, contractors—including those hired under Bulk Tender 19024 or 23009—are not eligible for this initiative. This initative is only available to full-time GovTech staff in eligible roles.
+    No, contractors—including those hired under Bulk Tender 19024 or 23009—are not eligible for this initiative. This initiative is only available to full-time GovTech staff in eligible roles.
 
 - **Will the initiative affect the SHIP-HATS subscription model for government agencies outside of GovTech?**
 
