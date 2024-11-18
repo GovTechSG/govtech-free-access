@@ -8,7 +8,7 @@ This initiative is centrally funded and led by the CIO Office and the Core Engin
 
 ## What is changing?
 
-Eligible GovTechies will be moved to a Central GovTech subscription for **Product Development Tools** such as GitLab, Jira, and Confluence. This subscription will be managed centrally through automation for GovTechies who fall within the eligible roles. 
+Eligible GovTechies will be moved to a Central GovTech subscription for **Product Development Tools** such as GitLab, Jira, and Confluence. This subscription will be managed centrally through automation for GovTechies in eligible roles. 
 
 This is a pilot initiative scoped to the Product Development teams within GovTech.
 
@@ -36,6 +36,6 @@ The overall goal is to enable GovTech engineers to focus on core engineering act
 ## Learn more
 
 For more details, refer to the following sections:
-- 🧍[Eligibility and subscriptions](/eligibility.md)
-- ⚙️ [Implementation and timelines](/implementation.md)
-- 💬 [Support and FAQs](/support.md)
+- [Eligibility and subscriptions](/eligibility.md)
+- [Implementation and timelines](/implementation.md)
+- [Support and FAQs](/support.md)

@@ -1,25 +1,27 @@
  # Support and FAQs
  
- If you have any feedback or questions, please reach out to us via this dedicated slack channel: 
+ If you have any feedback or questions, please reach out to us via this dedicated Slack channel: 
  
  💬 [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y)
 
  ## FAQs
 
- -  **If I’m a GovTechie in an eligible role, will I automatically get access to the centrally funded tools?**
+ -  **If I’m a GovTechie in an eligible role, will I instantly get access to the centrally funded tools?**
 
-    During the pilot phase, access will be rolled out *progressively* to eligible roles (e.g., Engineer, Product Manager, Designer) in selected teams. Specific details on access and eligibility criteria will be shared with those chosen for the pilot. Stay tuned for further updates as we continue to roll out the initiative.
+    During the pilot phase, access will be rolled out progressively to eligible roles (e.g., Engineer, Product Manager, Designer) in selected teams. Specific details on access and eligibility criteria will be shared with those chosen for the pilot.
+
+    Stay tuned for further updates as the initiative is rolled out.
 
 - **What should I do if I am a GovTechie but don’t have a SHIP-HATS subscription?**
 
-    To qualify for the centrally funded tools under this initiative, you need to be in an eligible role. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned license(s) according to your role. 
+    To qualify for the centrally funded tools under this initiative, you need to be in an eligible role. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned licenses based on your role.
     
-    For Subscription Admins with eligible GovTechies, the licenses for eligible tools assigned to them will be moved out of your account into a central account.
+    For Subscription Admins with eligible GovTechies, the licenses for eligible tools assigned to them will be transferred to a central account.
 
 
 - **As part of this transition, will there be any updates to my subscription accounts?**
 
-    During this transition, some subscription accounts may be adjusted to align with role eligibility under the Centrally Funded Product Development Tools initiative. 
+    During this transition, some subscription accounts may be updated to align with role eligibility under the Centrally Funded Product Development Tools initiative. 
 
     Subscription Admins (SAs) should be aware that while not all subscriptions will be affected, certain updates may be implemented to reflect the new eligibility structure. A separate communication will be sent to affected SAs with detailed information on any changes.
 
@@ -40,6 +42,3 @@
 - **Does this initiative cover all SHIP-HATS tools?**
 
     No, this initiative does not cover all SHIP-HATS tools. It only includes selected tools—specifically GitLab, Jira, and Confluence—that are part of SHIP-HATS and used for product development. Refer to [Eligibility](/eligibility.md) for more details.
-
-
-
