@@ -8,7 +8,7 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬 [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) -->
 
-<p align="center">💬 <a href=" =https://govtech.enterprise.slack.com/archives/C07UF60HY9Y)"><b>#feedback-product-development-tools</b></a></p>
+<p align="center">💬 <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y)"><b>#feedback-product-development-tools</b></a></p>
 
 
  ## Frequently asked questions
