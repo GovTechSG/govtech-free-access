@@ -29,9 +29,9 @@ The overall goal is to enable GovTech engineers to focus on core engineering act
 
 ## What is changing?
 
-Eligible GovTechies will be moved to a Central GovTech subscription for **Product Development Tools** such as GitLab, Jira, and Confluence. This subscription will be managed centrally through automation for GovTechies in eligible roles. 
+[**Eligible GovTechies**](/eligibility.md) will be moved to a Central GovTech subscription for **Product Development Tools** such as GitLab, Jira, and Confluence. This subscription will be managed centrally and will be automatically available for eligible roles GovTechies. 
 
-This pilot initiative is scoped to the Product Development teams within GovTech.
+This pilot initiative will be [rolled out progressively](/implementation.md) and is scoped to the Product Development teams within GovTech.
 
 ## What do you need to do?
 
