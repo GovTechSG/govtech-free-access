@@ -1,8 +1,15 @@
  # Support and FAQs
+
+ ## Get support 
  
  If you have any feedback or questions, please reach out to us via this dedicated Slack channel: 
+
+ <!-- 
  
- 💬 [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬 [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) -->
+
+<p align="center">💬 <a href=" =https://govtech.enterprise.slack.com/archives/C07UF60HY9Y)"><b>#feedback-product-development-tools</b></a></p>
+
 
  ## FAQs
 

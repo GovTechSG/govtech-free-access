@@ -1,4 +1,6 @@
- # Pilot implementation
+ # Implementation
+
+ ## Pilot period
 
  During the one-year pilot period, tool usage will be closely monitored, and findings will be reported and evaluated. If certain tools are found to be inactive or underused, unused subscriptions will be deactivated to maintain cost efficiency.
 
