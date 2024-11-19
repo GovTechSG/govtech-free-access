@@ -1,8 +1,8 @@
  # Support and FAQs
 
- ## Get support 
+ ## Got questions or feedback?
  
- If you have any feedback or questions, please reach out to us via this dedicated Slack channel: 
+ We're here to help! Get in touch with us anytime via this dedicated Slack channel: 
 
  <!-- 
  
