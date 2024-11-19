@@ -11,7 +11,7 @@
 <p align="center">💬 <a href=" =https://govtech.enterprise.slack.com/archives/C07UF60HY9Y)"><b>#feedback-product-development-tools</b></a></p>
 
 
- ## FAQs
+ ## Frequently asked questions
 
 - **What should I do if I am a GovTechie but don’t have a SHIP-HATS subscription?**
 
