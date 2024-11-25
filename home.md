@@ -6,26 +6,25 @@ Launching in FY24, these tools will be made available to eligible GovTechies upo
 
 This initiative is centrally funded and led by the CIO Office and the Core Engineering Productivity teams, in partnership with [Open Data Access](https://docs.developer.tech.gov.sg/docs/open-data-access/). 
 
-## What are the benefits?
+## Why are we doing this?
 
-The goal is to enable GovTech engineers to focus on core engineering activities by centralising the planning, procurement, and distribution of tools for product development.
+Our current decentralised approach to procuring development tools has created some challenges, including:
+- **Long procurement processes:** Without central expertise, navigating procurement can be time-consuming.
+- **Reduced productivity:** GovTechies transitioning between product teams often face delays in adapting to new tools.
+- **Cost inefficiencies:** Decentralisation limits the benefits of bulk purchasing and other cost-saving opportunities.
 
-- **Centralised provisioning** 
+This initiative seeks to reduce these challenges, so that GovTech engineers and product teams can focus on core activities rather than navigating tool acquisition and budgeting processes.
 
-    The CIO Office will handle all tool provisioning, so product teams can focus on delivering products and value rather than dealing with procurement processes.
+## What does this initiative offer?
 
-- **Enhanced productivity**
+In collaboration with the CIO Office and Core Engineering Productivity teams, we are introducing a standardised suite of tools that will be centrally provisioned for eligible roles within GovTech product teams. Here’s what the pilot includes:
 
-    By standardising tools across all product teams, onboarding time is reduced and developers need not adapt to different tools when transitioning between teams.
+- **Standardisation of Tools:** A consistent set of development tools will be available for all eligible roles, helping create a seamless experience across teams.
+- **Centralised Provisioning:** The CIO Office will manage tool provisioning, allowing product teams to focus on core work.
+- **Financial Optimisation:** By consolidating procurement, we can leverage bulk purchasing for cost savings for GovTech.
 
 
-- **Optimised costs** 
-
-    A consolidated procurement approach allows GovTech to benefit from cost savings via bulk purchasing, resulting in more efficient use of resources.
-
-- **Standardisation of tools** 
-
-    A unified set of development tools ensures a smooth, consistent experience for all eligible roles, improving collaboration and productivity across teams.
+<!-- 
 
 ## What is changing?
 
@@ -35,9 +34,11 @@ GovTechies who are existing subscribers will be moved to a Central GovTech subsc
 
 While we would have loved to extend this to all GovTechies, we’re rolling out the initial pilot for Product Development teams within GovTech. If you would like to raise any feedback or questions, please reach out to the team via Slack at [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y). 
 
+-->
+
 ## Learn more
 
 For more details, refer to the following sections:
-- [Eligibility and Tools](/eligibility.md)
-- [Pilot Implementation](/implementation.md)
+- [Which are the eligible roles?](/eligibility.md)
+- [How will this pilot work and what do you need to do?](/implementation.md)
 - [Support and FAQs](/support.md)

@@ -11,7 +11,7 @@ If you have any feedback or questions, please reach out to us via Slack:
 
 - **How do I know if I am eligible for this initiative?**
 
-    We’ve built a service for you to check if you’re eligible for the Product Development Tools. You can check it out here [link to app]. Alternatively, you can reach our initiative team via Slack at the  [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel to find out more. Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
+    We’ve built a service for you to check if you’re eligible for the Product Development Tools. You can check it out here: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). Alternatively, you can reach our initiative team via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel to find out more. Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
 
 - **What is the Product Development Tools initiative?**
 
@@ -44,10 +44,6 @@ If you have any feedback or questions, please reach out to us via Slack:
 - **Does this initiative cover all SHIP-HATS tools?**
 
     No, this initiative does not cover all SHIP-HATS tools. It only includes selected tools—specifically GitLab, Jira, and Confluence—that are part of SHIP-HATS and used for product development. These tools will be centrally funded for eligible roles in GovTech, but SHIP-HATS, as a whole, will continue under its existing subscription and pricing model.
-
-- **How do I get SHIP-HATS tools for free?**
-
-    SHIP-HATS tools are not offered for free. However, if you’re a GovTechie in an eligible role (such as Product Manager, Engineer, or Designer), you may qualify for access to centrally funded licenses for selected tools through GovTech’s Product Development Tools initiative.
 
 - **Are SHIP-HATS tools going to be free?**
 
