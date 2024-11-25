@@ -1,6 +1,6 @@
 # Product Development Tools
 
-The Product Development Tools initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows and reducing barriers to productivity.
+The Product Development Tools initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows, and reducing barriers to productivity.
 
 Launching in FY24, these tools will be made available to eligible GovTechies upon onboarding, enabling teams to focus on  building impactful products.
 
@@ -38,6 +38,6 @@ While we would have loved to extend this to all GovTechies, we’re rolling out 
 ## Learn more
 
 For more details, refer to the following sections:
-- [Eligibility](/eligibility.md)
-- [Implementation](/implementation.md)
+- [Eligibility and Tools](/eligibility.md)
+- [Pilot Implementation](/implementation.md)
 - [Support and FAQs](/support.md)
