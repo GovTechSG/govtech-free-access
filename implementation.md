@@ -1,14 +1,10 @@
 # How will this pilot work?
 
-This pilot will run for one year and target specific roles within GovTech. During this period, we will closely monitor tool usage and report findings to the GovTech management to ensure the initiative’s success and optimise costs. If certain tools remain inactive, we’ll evaluate and adjust by disabling unused subscriptions to maintain cost efficiency.
+During the pilot period from Dec 2024 to Mar 2026, we will closely monitor tool usage and report findings to the GovTech management to ensure the initiative’s success and optimise costs. If certain tools remain inactive, we’ll evaluate and adjust by disabling unused subscriptions to maintain cost efficiency.
 
-<!-- 
-During the pilot period from Dec 2024 to Mar 2026, tool usage will be monitored and findings will be reviewed and evaluated. If the tools are found to be inactive or underused, access may be revoked to maintain prudence in our cost management.
-
-Access will be rolled out progressively to [eligible roles](/eligibility.md) (e.g., Engineer, Product Manager, Designer) across selected teams. Detailed information on access and eligibility will be provided to those selected for the pilot.
+This pilot will target specific roles within GovTech. Access will be rolled out progressively to [eligible roles](/eligibility.md) (e.g., Engineer, Product Manager, Designer) across selected teams. Detailed information on access and eligibility will be provided to those selected for the pilot.
 
 Stay tuned for further updates as we continue to roll out the initiative.
--->
 
 ## What is the impact to the subscription? 
 
