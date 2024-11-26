@@ -8,6 +8,8 @@ This initiative is centrally funded and led by the CIO Office and the Core Engin
 
 ## Why are we doing this?
 
+![why-we-are-doing-this](assets/whyarewedoingthis.png)
+
 Our current decentralised approach to procuring development tools has created some challenges, including:
 - **Long procurement processes:** Without central expertise, navigating procurement can be time-consuming.
 - **Reduced productivity:** GovTechies transitioning between product teams often face delays in adapting to new tools.
@@ -16,6 +18,8 @@ Our current decentralised approach to procuring development tools has created so
 This initiative seeks to reduce these challenges, so that GovTech engineers and product teams can focus on core activities rather than navigating tool acquisition and budgeting processes.
 
 ## What does this initiative offer?
+
+![benefits](/assets/benefits.png)
 
 In collaboration with the CIO Office and Core Engineering Productivity teams, we are introducing a standardised suite of tools that will be centrally provisioned for eligible roles within GovTech product teams. Here’s what the pilot includes:
 
