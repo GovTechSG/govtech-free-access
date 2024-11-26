@@ -20,4 +20,6 @@ If you do not already have a SHIP-HATS subscription, you will automatically be a
 
 ## What do you need to do?
 
-Nothing, unless something unexpected happens. Please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel if you need support or something terrible happens. But we expect the change to be transparent to all and you will continue to have access to your SGTS tools (GitLab, Jira, and Confluence).
+You won't need to do anything. If something unexpected happens, please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel. 
+
+We expect the change to be transparent to all and you will continue to have access to your SGTS tools (GitLab, Jira, and Confluence).

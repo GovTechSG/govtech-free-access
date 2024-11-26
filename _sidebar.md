@@ -1,4 +1,4 @@
 - [Overview](home.md)
-- [Eligibility and Tools](eligibility.md)
-- [Pilot Implementation](implementation.md)
+- [Eligible Roles and Tools](eligibility.md)
+- [Implementation](implementation.md)
 - [Support and FAQs](support.md)
