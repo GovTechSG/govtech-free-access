@@ -10,6 +10,8 @@ This initiative is centrally funded and led by the CIO Office and the Core Engin
 
 ![why-we-are-doing-this](assets/whyarewedoingthis.png)
 
+Our current decentralised approach to procuring development tools has created some challenges, including:
+
 - **Long procurement processes:** Without central expertise, navigating procurement can be time-consuming.
 - **Reduced productivity:** GovTechies transitioning between product teams often face delays in adapting to new tools.
 - **Cost inefficiencies:** Decentralisation limits the benefits of bulk purchasing and other cost-saving opportunities.
