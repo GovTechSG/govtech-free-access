@@ -19,7 +19,7 @@ This initiative seeks to reduce these challenges, so that GovTech engineers and 
 
 In collaboration with the CIO Office and Core Engineering Productivity teams, we are introducing a standardised suite of tools that will be centrally provisioned for eligible roles within GovTech product teams. Here’s what the pilot includes:
 
-- **Standardisation of Tools:** A consistent set of development tools will be available for all eligible roles, helping create a seamless experience across teams.
+- **Standardised Tools:** A consistent set of development tools will be available for all eligible roles, helping create a seamless experience across teams.
 - **Centralised Provisioning:** The CIO Office will manage tool provisioning, allowing product teams to focus on core work.
 - **Financial Optimisation:** By consolidating procurement, we can leverage bulk purchasing for cost savings for GovTech.
 
