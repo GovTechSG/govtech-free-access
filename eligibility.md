@@ -10,6 +10,6 @@ Central funding will cover specific GovTech staff roles such as **Engineers, Pro
 | Product Managers, Delivery Managers, Engineers, and Designers | Jira |
 | Product Managers, Delivery Managers, Engineers, and Designers | Confluence |
 
-?> **Important:** GovTech contract staff from Bulk Tender 19024 or 23009 are not eligible.
+?> **Note:** Vendors and augmented staff (in any role) from Bulk Tender 19024 or 23009 are not eligible.
 
 If you have any questions, you can reach our initiative team via Slack at the  [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel to find out more.
