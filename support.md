@@ -11,7 +11,8 @@ If you have any feedback or questions, please reach out to us via Slack:
 
 - **How do I know if I am eligible for this initiative?**
 
-    We’ve built a service for you to check if you’re eligible for the Product Development Tools. You can check it out here: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility) (**Note:** This tool will be available from 2 Dec 2024. Please check back soon!). 
+    We’ve built a service for you to check if you’re eligible for the Product Development Tools. You can check it out here: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility) (**Note:** The utility is online but the data will be updated from **2 Dec** onwards. Please check your eligibility next week!
+). 
     
     Alternatively, you can reach our initiative team via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel to find out more. Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
 
