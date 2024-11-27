@@ -4,7 +4,7 @@ To  quickly check if you’re eligible for the Product Development Tools, you ca
 
 Central funding will cover specific GovTech staff roles such as **Engineers, Product Managers, Delivery Managers, and Designers**. 
 
-![eligible-roles](assets/eligible.png)
+![eligible-roles](assets/eligible-roles.png)
 
 <!--
 
