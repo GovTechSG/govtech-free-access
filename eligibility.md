@@ -2,6 +2,8 @@
 
 To  quickly check if you’re eligible for the Product Development Tools, you can use this tool: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility).
 
+?> **Note:** This tool will be available from 2 Dec 2024. Please check back soon!
+
 Central funding will cover specific GovTech staff roles such as **Engineers, Product Managers, Delivery Managers, and Designers**. 
 
 ![eligible-roles](assets/eligible-roles.png)
