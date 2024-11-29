@@ -30,7 +30,7 @@ If you have any feedback or questions, please reach out to us via Slack:
 
 - **As part of this transition, will there be updates to my subscription accounts?**
 
-    Subscription accounts with eligible GovTechies will be adjusted (down) when the users are transfered to a central GovTech subscription. Subscription Admins (SAs) should be aware that not all subscriptions will be affected, only existing subscriptions with eligible GovTechies. An email will be sent to affected SAs with detailed information on the changes when the transfer has been completed.
+    During this transition, some TechBiz subscription accounts will be updated as licensed users are moved to a centrally managed GovTech subscription. Subscription Admins (SAs) to be aware that not all subscriptions will be affected but licenses assigned in your accounts will be reduced when users are transferred. A separate communication will be sent to affected SAs with detailed information on any changes.
 
 - **Will there be any impact on the cost of SHIP-HATS subscriptions due to this initiative?**
 
