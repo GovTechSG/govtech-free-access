@@ -18,9 +18,9 @@ Central funding will cover specific GovTech staff roles such as **Engineers, Pro
 
 To  quickly check if you’re eligible, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). 
 
-If you're eligible, the tool will display the Function you belong to.
+If you're eligible, the tool will display the group you belong to.
 
-| Function | Role | Tools |
+| Group | Role | Tools |
 |---|---|--|
 | Engineering | Engineers  | GitLab, Jira, Confluence |
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
@@ -32,4 +32,4 @@ For GovTechies (permanent and contract staff) who are in the specific roles ment
 
 Vendors and augmented staff (in any role) from Bulk Tender 19024, 23069, or 23009 are not eligible for this initiative. 
 
-💡 **Reminder:** If you are not eligible for this pilot implementation, you can still continue using these tools with your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subcription. If you are not an SHIP-HATS existing user, you can sign up via [TechBiz](https://portal.techbiz.suite.gov.sg/) and login with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/). 
+💡 **Reminder:** If you are not eligible for this pilot implementation, you can still continue using these tools with your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subcription. If you are not an existing SHIP-HATS user, you can sign up via [TechBiz](https://portal.techbiz.suite.gov.sg/) and login with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/). 
