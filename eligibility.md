@@ -1,10 +1,6 @@
 # Eligible Roles and Tools
 
-To  quickly check if you’re eligible for the Product Development Tools, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility).
-
-?> **Note:** The utility is online but the data will be updated from **2 Dec** onwards. Please check your eligibility next week!
-
-Central funding will cover specific GovTech staff roles such as **Engineers, Product Managers, Delivery Managers, and Designers**. 
+Central funding will cover specific GovTech staff roles such as **Engineers, Product Managers, Delivery Managers, and Designers** for the pilot implementation. 
 
 ![eligible-roles](assets/eligible-roles.png)
 
@@ -18,6 +14,20 @@ Central funding will cover specific GovTech staff roles such as **Engineers, Pro
 
 -->
 
-For GovTechies (permanent and contract staff) who are not part of the pilot initiative, you may write in to the team via Slack at the  [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel, and we will review on a case by case basis.
+## Eligibility check 
 
-?> **Note:** Vendors and augmented staff (in any role) from Bulk Tender 19024, 23069, or 23009 are not eligible for this initiative. 
+To  quickly check if you’re eligible for the Product Development Tools, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). The tool will display your *Eligibility Status* and the *Function* you are under. 
+
+| Function | Role | Tools |
+|---|---|--|
+| Engineering | Engineers  | GitLab, Jira, Confluence |
+| Product | Product Managers, Delivery Managers | Jira, Confluence |
+| Design | Designers | Jira, Confluence |
+
+## Not eligible?
+
+For GovTechies (permanent and contract staff) who are in the roles mentioned above but are not eligible for the pilot initiative, you may write in to the team via Slack at the  [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel, and we will review on a case by case basis.
+
+Vendors and augmented staff (in any role) from Bulk Tender 19024, 23069, or 23009 are not eligible for this initiative. 
+
+💡 **Reminder:** If you are not eligible for this pilot implementation, you can still continue using these tools with your existing SHIP-HATS subcription. If you are not an SHIP-HATS existing user, you can sign up via [TechBiz](https://portal.techbiz.suite.gov.sg/) and login with TechPass. 

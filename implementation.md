@@ -2,16 +2,18 @@
 
 ## How will this pilot work?
 
-![implem](/assets/implementation.png)
-
 This pilot will run for one year and target specific roles within GovTech. 
 
 During this period, we will closely monitor tool usage and report findings to the GovTech management to ensure the initiative’s success and optimise costs. If certain tools remain inactive, we’ll evaluate and adjust by disabling unused subscriptions to maintain cost efficiency.
 
+<!-- ![implem](/assets/implementation.png) -->
+
 
 ## What do you need to do?
 
-You won't need to do anything. If something unexpected happens, please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel. 
+**No action is required.** If you're eligible for this initiative, access will be provided **automatically**. Refer [to this section](/eligibility.md) for more information on eligibility.
+
+If something unexpected happens, please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel. 
 
 We expect the change to be transparent to all and you will continue to have access to your SGTS tools (GitLab, Jira, and Confluence).
 
