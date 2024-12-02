@@ -16,7 +16,9 @@ Central funding will cover specific GovTech staff roles such as **Engineers, Pro
 
 ## Eligibility check 
 
-To  quickly check if you’re eligible for the Product Development Tools, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). If you are eligible, the tool will display the *Function* you are. 
+To  quickly check if you’re eligible for the Product Development Tools, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). 
+
+If you are eligible, the tool will display the *Function* you are part of.  
 
 | Function | Role | Tools |
 |---|---|--|
