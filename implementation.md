@@ -11,11 +11,9 @@ During this period, we will closely monitor tool usage and report findings to th
 
 ## What do you need to do?
 
-**No action is required.** If you're eligible for this initiative, access will be provided **automatically**. Refer [to this section](/eligibility.md) for more information on eligibility.
+**No action is required.** If you're eligible for this initiative, access will be provided **automatically**. Refer to [Eligible Roles and Tools](/eligibility.md) for more information on eligibility.
 
-If something unexpected happens, please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel. 
-
-We expect the change to be transparent to all and you will continue to have access to your SGTS tools (GitLab, Jira, and Confluence).
+If something unexpected happens, please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel. We expect the change to be transparent to all and you will continue to have access to your SGTS tools (GitLab, Jira, and Confluence).
 
 ## What is the impact to the subscription? 
 
