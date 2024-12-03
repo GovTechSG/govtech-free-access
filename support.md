@@ -11,8 +11,7 @@ If you have any feedback or questions, please reach out to us via Slack:
 
 - **How do I know if I am eligible for this initiative?**
 
-    We’ve built a service for you to check if you’re eligible for the Product Development Tools. You can check it out here: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility) (**Note:** The utility is online but the data will be updated from **2 Dec** onwards. Please check your eligibility next week!
-). 
+    We’ve built a service for you to check if you’re [eligible](/eligibility.md) for the Product Development Tools. You can check it out here: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility)
     
     Alternatively, you can reach our initiative team via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel to find out more. Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
 
@@ -26,11 +25,11 @@ If you have any feedback or questions, please reach out to us via Slack:
 
 - **If I’m a GovTechie in an eligible role, will I automatically get access to the centrally funded tools?**
 
-    No, access will not be automatic. During this pilot phase, only eligible roles (e.g., Engineer, Product Manager, Designer) within selected teams will be offered access to the centrally funded tools. Specific instructions on access and eligibility criteria will be communicated directly to those chosen for the pilot. Please stay tuned for further details as we roll out this initiative.
+    During this pilot phase, only eligible roles (e.g., Engineer, Product Manager, Designer) within selected teams will be offered access to the centrally funded tools. Specific instructions on access and eligibility criteria will be communicated directly to those chosen for the pilot. Please stay tuned for further details as we roll out this initiative.
 
 - **As part of this transition, will there be updates to my subscription accounts?**
 
-    During this transition, some TechBiz subscription accounts will be updated as licensed users are moved to a centrally managed GovTech subscription. Subscription Admins (SAs) to be aware that not all subscriptions will be affected but licenses assigned in your accounts will be reduced when users are transferred. A separate communication will be sent to affected SAs with detailed information on any changes.
+    During this transition, some TechBiz subscription accounts will be updated as licensed users are moved to a centrally managed GovTech subscription. Subscription Admins (SAs) need to be aware that not all subscriptions will be affected but licenses assigned in your accounts will be reduced when users are transferred. A separate communication will be sent to affected SAs with detailed information on any changes.
 
 - **Will there be any impact on the cost of SHIP-HATS subscriptions due to this initiative?**
 
