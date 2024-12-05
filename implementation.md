@@ -18,8 +18,6 @@ The success of the pilot will encourage the team to expand coverage to other rel
 
 If you're **eligible**, you will **automatically** be granted access to the centrally-funded tools.
 
-
-
 **What actions can you take?**
 
 - You can check your eligiblity for the initiative. Refer to [Eligible Roles and Tools](/eligibility.md) for more information on eligibility.
