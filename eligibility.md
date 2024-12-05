@@ -28,7 +28,7 @@ If you're eligible, the tool will display the group you belong to.
 
 ?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative. 
 
-💡 **Reminders** 
+## 💡 Reminders
 
 - If you are not eligible for this pilot implementation, you can still continue using these tools with your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subcription. If you are not an existing SHIP-HATS user, you can sign up via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/). 
 
