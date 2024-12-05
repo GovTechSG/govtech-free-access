@@ -2,18 +2,29 @@
 
 ## How will this pilot work?
 
-This pilot will run for one year and target specific roles within GovTech. 
+- This pilot will run from Dec 2024 to Mar 2026.
 
-During this period, we will closely monitor tool usage and report findings to the GovTech management to ensure the initiative’s success and optimise costs. If certain tools remain inactive, we’ll evaluate and adjust by disabling unused subscriptions to maintain cost efficiency.
+- Eligible users will be transferred from existing subscriptions into a central account.
+
+- During this period, the project team will monitor outcomes and gather insights from both existing and new users of the centrally-managed tools. 
+
+The success of the pilot will encourage the team to expand coverage to other relevant roles and teams.
 
 <!-- ![implem](/assets/implementation.png) -->
 
 
 ## What do you need to do?
 
-**No action is required.** If you're eligible for this initiative, access will be provided **automatically**. Refer to [Eligible Roles and Tools](/eligibility.md) for more information on eligibility.
 
-If something unexpected happens, please reach out to us via Slack at the [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel. We expect the change to be transparent to all and you will continue to have access to your SGTS tools (GitLab, Jira, and Confluence).
+If you're **eligible**, you will **automatically** be granted access to the centrally-funded tools.
+
+
+
+**What actions can you take?**
+
+- You can check your eligiblity for the initiative. Refer to [Eligible Roles and Tools](/eligibility.md) for more information on eligibility.
+
+- If you have questions or suggestions, you can join the   [#feedback-product-development-tools](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) Slack channel to share your feedback.
 
 ## What is the impact to the subscription? 
 
