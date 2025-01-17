@@ -31,10 +31,6 @@ If you have any feedback or questions, please reach out to us via Slack:
 
     No, contractors-including those hired under Bulk Tender 19024, 23009, or 23069-are not eligible for this initiative. The centrally funded product development tools are available only to full-time GovTech staff in eligible roles.
 
-- **Does this initiative cover all SHIP-HATS tools?**
-
-    No, this initiative does not cover all SHIP-HATS tools. It only includes selected tools-specifically GitLab, Jira, and Confluence-that are part of SHIP-HATS and used for product development. These tools will be centrally funded for eligible roles in GovTech, but SHIP-HATS as a whole will continue under its existing subscription and pricing model. 
-
 - **As part of this transition, will there be any updates to my subscription accounts?**
 
     During this transition, TechBiz subscription accounts will be updated as licensed users are moved to a centrally managed GovTech subscription. Subscription Admins (SAS) to be aware that not all subscriptions will be affected but licenses assigned in your accounts will be reduced when users are transferred. An automated communication was sent to affected SAs with detailed information on any changes.
