@@ -16,8 +16,7 @@ Our primary focus for the first quarter of 2025 will be to:
 
 Building on our Q1 findings, we plan to:
 
-- Introduce Figma to our suite of free-access tools
-- Implement an AI Coding Assistant to boost productivity
+- Add Figma and AI Coding Assistant to the list of tools included in the initiative
 - Consider expanding the initiative's scope to include additional groups and roles, based on Q1 effectiveness measurements
 
 Your feedback is crucial in shaping the future of the Free Access Initiative, so please don't hesitate to [share your thoughts and suggestions](/support.md). 
