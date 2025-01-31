@@ -4,10 +4,6 @@ We're happy to share that the Product Development Tools initiative is being rena
 
 ?> **Note:** You may see the new name, Free Access Initiative, used in communications and documentation going forward.
 
-# Rename to Free Access Initiative
-
-The Product Development Tools initiative is taking on a new identity. We're renaming it to the Free Access Initiative to better reflect its purpose and benefits. This change emphasises our commitment to providing GovTech staff with streamlined, cost-free access to essential development tools.
-
 ## Reasons for the Change
 
 - **Improved Clarity**: The new name, Free Access Initiative, more accurately describes the core benefit of the programme - providing free access to essential development tools for eligible GovTechies.
