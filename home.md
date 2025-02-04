@@ -28,6 +28,12 @@ In collaboration with the CIO Office and Core Engineering Productivity teams, we
 - **Centralised Provisioning:** The CIO Office will manage tool provisioning, allowing product teams to focus on core work.
 - **Financial Optimisation:** By consolidating procurement, we can leverage bulk purchasing for cost savings for GovTech.
 
+## Upcoming name change
+
+The Product Development Tools initiative will soon be renamed to the Free Access Initiative. This change better reflects the programme's core purpose: providing eligible GovTechies with free access to essential development tools. 
+
+While the name is changing, the initiative's objectives, benefits, scope, and operations remain the same. It will continue to be centrally funded by GovTech and managed by the CIO Office and Core Engineering Productivity teams. Eligible staff will still access the same tools through the same process, supporting GovTech's commitment to streamlined workflows and enhanced productivity.
+
 
 <!-- 
 
