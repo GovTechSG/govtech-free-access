@@ -1,6 +1,5 @@
 - [Overview](home.md)
 - [Eligible Roles and Tools](eligibility.md)
-- [Implementation]
-(implementation.md)
+- [Implementation](implementation.md)
 - [Roadmap](roadmap.md)
 - [Support and FAQs](support.md)
