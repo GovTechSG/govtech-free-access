@@ -34,6 +34,6 @@ If you're eligible, the tool will display the group you belong to.
 
 - While some roles may not be eligible for this initial phase, the goal is to expand the initiative over time. Feedback will be essential in making the tools more accessible and useful for collaboration. Your input will play a key role in shaping future phases of the rollout.
 
-- For GovTechies (permanent and contract staff) in the specific roles mentioned above who are not eligible for the pilot, you can reach out to the team via Slack at the  [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel, and we will review on a case-by-case basis.
+- For GovTechies (permanent and contract staff) in the specific roles mentioned above who are not eligible for the pilot, you can reach out to the team via Slack at the  [**#feedback-govtech-free-access**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel, and we will review on a case-by-case basis.
 
 

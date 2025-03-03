@@ -1,6 +1,6 @@
-# Product Development Tools
+# Free Access
 
-The Product Development Tools initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows, and reducing barriers to productivity.
+The Free Access initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows, and reducing barriers to productivity.
 
 Launching in FY24, these tools will be made available to eligible GovTechies (permanent and contract staff) upon onboarding, enabling teams to focus on  building impactful products.
 
@@ -30,7 +30,7 @@ In collaboration with the CIO Office and Core Engineering Productivity teams, we
 
 ## Upcoming name change
 
-The Product Development Tools initiative will soon be renamed to the Free Access Initiative. This change better reflects the programme's core purpose: providing eligible GovTechies with free access to essential development tools. 
+The Product Development Tools will soon be renamed to Free Access. This change better reflects the programme's core purpose: providing eligible GovTechies with free access to essential development tools. 
 
 While the name is changing, the initiative's objectives, benefits, scope, and operations remain the same. It will continue to be centrally funded by GovTech and managed by the CIO Office and Core Engineering Productivity teams. Eligible staff will still access the same tools through the same process, supporting GovTech's commitment to streamlined workflows and enhanced productivity.
 

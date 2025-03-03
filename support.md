@@ -4,7 +4,7 @@
 
 If you have any feedback or questions, please reach out to us via Slack:
 
-💬 <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y"><b>#feedback-product-development-tools</b></a>
+💬 <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y"><b>#feedback-govtech-free-access</b></a>
 
 
  ## Frequently asked questions

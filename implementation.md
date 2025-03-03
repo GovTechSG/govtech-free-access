@@ -22,7 +22,7 @@ If you're **eligible**, you will **automatically** be granted access to the cent
 
 - You can check your eligiblity for the initiative. Refer to [Eligible Roles and Tools](/eligibility.md) for more information on eligibility.
 
-- If you have questions or suggestions, you can join the   [#feedback-product-development-tools](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) Slack channel to share your feedback.
+- If you have questions or suggestions, you can join the   [**#feedback-govtech-free-access**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) Slack channel to share your feedback.
 
 ## What is the impact to the subscription? 
 
