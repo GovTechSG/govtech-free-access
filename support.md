@@ -17,11 +17,11 @@ If you have any feedback or questions, please reach out to us via Slack:
 
 - **How do I know if I am eligible?**
 
-    We've built a service for you to check if you're eligible for Free Access. You can check it out here: http://go.gov.sg/product-dev-tools-eligibility . Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
+    We've built a service for you to check if you're eligible for Free Access. You can check it out here: http://go.gov.sg/product-dev-tools-eligibility. Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
 
 - **What does it mean to be 'Not Eligible'?**
 
-    If you are not eligible for this pilot implementation, you can still continue using these tools with your existing SHIP-HATS subscription. If you are not an existing SHIP-HATS user, you can sign up via TechBiz and login with TechPass.
+    If you are not eligible for this pilot implementation, you can still continue using these tools with your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subscription. If you are not an existing SHIP-HATS user, you can sign up via [TechBiz](https://portal.techbiz.suite.gov.sg/) and login with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
 
 - **Are contractors eligible?**
 
@@ -84,7 +84,7 @@ If you have any feedback or questions, please reach out to us via Slack:
 - **What does the central funding include and how do I create spaces?**
 
     You will not have subscription rights for the subscription funded for you. However, you have two options:
-    - You can create a new SHIP-HATS account with a $0 base subscription, without any base or add-on, or
+    - You can create a new SHIP-HATS account with a $0 base subscription, without any base or add-on
     - Another Subscription Admin can add you as a Secondary Admin or Project Admin to their own subscription. This will allow you to create and manage a new Confluence space.
 
 ### Technical support
@@ -108,7 +108,7 @@ If you have any feedback or questions, please reach out to us via Slack:
     No, SHIP-HATS tools will not be available for free. This initiative will centralise the management of access to certain tools but will only apply to eligible GovTechies. SHIP-HATS will continue to operate under its existing subscription and pricing model.
 
 
-
+<!-- 
  ---
 
 - **What is the Free Access initiative?**
@@ -157,3 +157,5 @@ If you have any feedback or questions, please reach out to us via Slack:
 - **Are SHIP-HATS tools going to be free?**
 
     No, SHIP-HATS tools will not be available for free. This initiative will centralise the management of access to certain tools but will only apply to eligible GovTechies. SHIP-HATS will continue to operate under its existing subscription and pricing model. 
+
+    -->
