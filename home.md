@@ -40,7 +40,7 @@ In collaboration with the CIO Office and Core Engineering Productivity teams, we
 
 ?> **Note:** Ongoing usage and feedback are key — they help us understand real demand and inform future decisions. We’re continuously reviewing data to guide how licenses are added or reassigned. Do note that if the usage of an assigned license is low, we will reassign the license to new users to ensure licenses are used where they’re most needed.
 
-### If you're not included in the pilot right now
+**If you're not included in the pilot right now**
 
 The Free Access pilot is centrally managed and roles were selected based on current usage patterns and needs.  While some teams and roles aren’t part of this first phase, we’re continuously reviewing data to guide how access is expanded or reassigned.
 
