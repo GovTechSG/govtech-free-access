@@ -28,6 +28,29 @@ In collaboration with the CIO Office and Core Engineering Productivity teams, we
 - **Centralised Provisioning:** The CIO Office will manage tool provisioning, allowing product teams to focus on core work.
 - **Financial Optimisation:** By consolidating procurement, we can leverage bulk purchasing for cost savings for GovTech.
 
+## Who is eligible?
+
+ If you're a GovTech staff (perm or contract staff) and your day-to-day role involves:
+
+* Engineering (using GitLab, Jira, Confluence)
+* Product or Delivery Management (using Jira, Confluence)
+* Design (using Jira, Confluence)
+
+…then you're likely part of the pilot group. For more details, refer to [Eligible Roles and Tools](/eligibility.md).
+
+?> **Note:** Ongoing usage and feedback are key — they help us understand real demand and inform future decisions. We’re continuously reviewing data to guide how licenses are added or reassigned. Do note that if the usage of an assigned license is low, we will reassign the license to new users to ensure licenses are used where they’re most needed.
+
+### If you're not included in the pilot right now
+
+The Free Access pilot is centrally managed and roles were selected based on current usage patterns and needs.  While some teams and roles aren’t part of this first phase, we’re continuously reviewing data to guide how access is expanded or reassigned.
+
+* If your team is not part of first phase, you can continue to use licenses as part of your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subcription (for GitLab, Jira, Confluence) or you can sign up for SHIP-HATS subcription via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
+* If you are in a role not covered as part of this pilot, you can sign up for SHIP-HATS subcription (for GitLab, Jira, Confluence) via TechBiz (log in with TechPass). 
+* If you're in a management or supervisory role, you can use these tools by signing up via TechBiz (log in with TechPass). 
+
+Still unsure? [Get support or provide feedback](/support.md).
+
+
 ## Name change
 
 The Product Development Tools initative has been renamed to Free Access. This change better reflects the programme's core purpose: providing eligible GovTechies with free access to essential development tools. 
@@ -45,7 +68,6 @@ GovTechies who are existing subscribers will be moved to a Central GovTech subsc
 
 While we would have loved to extend this to all GovTechies, we’re rolling out the initial pilot for Product Development teams within GovTech. If you would like to raise any feedback or questions, please reach out to the team via Slack at [**#feedback-product-development-tools**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y). 
 
--->
 
 ## Learn more
 
@@ -53,3 +75,5 @@ For more details, refer to the following sections:
 - [Which are the eligible roles?](/eligibility.md)
 - [How will this pilot work and what do you need to do?](/implementation.md)
 - [Support and FAQs](/support.md)
+
+-->

@@ -1,4 +1,5 @@
 - [Overview](home.md)
+- [Announcements](/announcements.md)
 - [Eligible Roles and Tools](eligibility.md)
 - [Implementation](implementation.md)
 - [Roadmap](roadmap.md)

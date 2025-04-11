@@ -2,9 +2,17 @@
 
  ## Support channel
 
-If you have any feedback or questions, please reach out to us via Slack:
+If you have any questions, please reach out to us via Slack.
 
 💬 <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y"><b>#feedback-govtech-free-access</b></a>
+
+We’ll review on a case-by-case basis. Given limited licenses, we may not be able to support every request immediately. 
+
+## Feedback
+
+Your feedback will help us understand what’s working, what’s not, and how we can support you better. 
+
+**https://go.gov.sg/free-access-feedback**
 
 
 ## Frequently asked questions
