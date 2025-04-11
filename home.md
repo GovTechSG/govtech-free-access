@@ -30,15 +30,15 @@ In collaboration with the CIO Office and Core Engineering Productivity teams, we
 
 ## Who is eligible?
 
- If you're a GovTech staff (perm or contract staff) and your day-to-day role involves:
+ If you're a GovTech staff (perm or contract staff) and your day-to-day role involves the following, you're likely part of the pilot group:
 
 * Engineering (using GitLab, Jira, Confluence)
 * Product or Delivery Management (using Jira, Confluence)
 * Design (using Jira, Confluence)
 
-…then you're likely part of the pilot group. For more details, refer to [Eligible Roles and Tools](/eligibility.md).
+For more details, refer to [Eligible Roles and Tools](/eligibility.md).
 
-?> **Note:** Ongoing usage and feedback are key — they help us understand real demand and inform future decisions. We’re continuously reviewing data to guide how licenses are added or reassigned. Do note that if the usage of an assigned license is low, we will reassign the license to new users to ensure licenses are used where they’re most needed.
+?> **Note:** Ongoing usage and feedback are key to help us understand real demand and inform future decisions. We’re continuously reviewing data to guide how licenses are added or reassigned. Do note that if the usage of an assigned license is low, we will reassign the license to new users to ensure licenses are used where they’re most needed.
 
 **If you're not included in the pilot right now**
 
