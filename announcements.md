@@ -31,16 +31,15 @@ Ongoing usage and feedback are key — they help us understand real demand and i
 
 The Free Access pilot is centrally managed and roles were selected based on current usage patterns and needs.  While some teams and roles aren’t part of this first phase, we’re continuously reviewing data to guide how access is expanded or reassigned.
 
-* If your team is not part of first phase, you can continue to use licenses as part of your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subcription (for GitLab, Jira, Confluence) or you can sign up for SHIP-HATS subcription via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
-* If you are in a role not covered as part of this pilot, you can sign up for SHIP-HATS subcription (for GitLab, Jira, Confluence) via TechBiz (log in with TechPass). 
-* If you're in a management or supervisory role, you can use these tools by signing up via TechBiz (log in with TechPass). 
+* If your team is not part of first phase, you can continue to use licenses as part of your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subscription (for GitLab, Jira, Confluence) or you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
+* If you are in a role not covered as part of this pilot, you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription (for GitLab, Jira, Confluence) via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
+* If you're in a management or supervisory role, you can use these tools by signing up via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
 
 **Still unsure?** 
 
-If you don’t see your scenario covered, reach out to us via <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y"><b>#feedback-govtech-free-access</b></a> — we’ll review on a case-by-case basis. Given limited licenses, we may not be able to support every request immediately. 
+Check the docs (https://go.gov.sg/product-dev-tools). If you don’t see your scenario covered, reach out to us via <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y"><b>#feedback-govtech-free-access</b></a> — we’ll review on a case-by-case basis. Given limited licenses, we may not be able to support every request immediately. 
 
-**Help us improve**
+**Help us improve** 
 
-Whether you’re already part of the pilot or hoping to join in the future, we’d love to hear your feedback. Please take 5 min to share your feedback. This will help us understand what’s working, what’s not, and how we can support you better. 
-
-**https://go.gov.sg/free-access-feedback**
+Whether you’re already part of the pilot or hoping to join in the future, we’d love to hear your feedback. Please take 5 miutes to share your feedback. This will help us understand what’s working, what’s not, and how we can support you better.
+https://go.gov.sg/free-access-feedback
