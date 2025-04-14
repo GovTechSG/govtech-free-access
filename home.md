@@ -50,11 +50,11 @@ The Free Access pilot is centrally managed and roles were selected based on curr
 
 **Still unsure?** 
 
-If you don’t see your scenario covered, reach out to us via <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y"><b>#feedback-govtech-free-access</b></a> — we’ll review on a case-by-case basis. Given limited licenses, we may not be able to support every request immediately. 
+If you don’t see your scenario covered, reach out to us via <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y">#feedback-govtech-free-access</a> — we’ll review on a case-by-case basis. Given limited licenses, we may not be able to support every request immediately. 
 
 **Help us improve** 
 
-Whether you’re already part of the pilot or hoping to join in the future, we’d love to hear your feedback. Please take 5 miutes to share your feedback. This will help us understand what’s working, what’s not, and how we can support you better.
+Whether you’re already part of the pilot or hoping to join in the future, we’d love to hear your feedback: https://go.gov.sg/free-access-feedback. Please take 5 minutes to share your feedback. This will help us understand what’s working, what’s not, and how we can support you better.
 https://go.gov.sg/free-access-feedback
 
 
