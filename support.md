@@ -24,12 +24,30 @@ Your feedback will help us understand what’s working, what’s not, and how we
     The Free Access initiative is designed to provide eligible GovTechies (e.g., Product Managers, Engineers, Designers) with centrally funded licenses for selected development tools, such as GitLab, Jira, and Confluence. Instead of individual teams or projects managing separate tool licenses, GovTech will centrally cover the costs, simplifying access to essential tools for eligible roles. More details on the tools covered will be shared as the rollout progresses.
 
 - **How do I know if I am eligible?**
+    <!-- 
+    We've built a service for you to check if you're eligible for Free Access. You can check it out here: http://go.gov.sg/product-dev-tools-eligibility. Please note that this initiative is currently a pilot for selected roles and teams in GovTech. -->
 
-    We've built a service for you to check if you're eligible for Free Access. You can check it out here: http://go.gov.sg/product-dev-tools-eligibility. Please note that this initiative is currently a pilot for selected roles and teams in GovTech.
+     If you're a GovTech staff (perm or contract staff) and your day-to-day role involves the following, you're likely part of the pilot group:
 
+    * Engineering (using GitLab, Jira, Confluence)
+    * Product or Delivery Management (using Jira, Confluence)
+    * Design (using Jira, Confluence)
+
+    For more details, refer to [Eligible Roles and Tools](/eligibility.md).
+
+<!-- 
 - **What does it mean to be 'Not Eligible'?**
 
     If you are not eligible for this pilot implementation, you can still continue using these tools with your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subscription. If you are not an existing SHIP-HATS user, you can sign up via [TechBiz](https://portal.techbiz.suite.gov.sg/) and login with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
+-->
+
+- **What do I do if I am not eligible right now?**
+
+    The Free Access pilot is centrally managed and roles were selected based on current usage patterns and needs.  While some teams and roles aren’t part of this first phase, we’re continuously reviewing data to guide how access is expanded or reassigned.
+
+    * If your team is not part of first phase, you can continue to use licenses as part of your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subscription (for GitLab, Jira, Confluence) or you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
+    * If you are in a role not covered as part of this pilot, you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription (for GitLab, Jira, Confluence) via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
+    * If you're in a management or supervisory role, you can use these tools by signing up via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
 
 - **Are contractors eligible?**
 

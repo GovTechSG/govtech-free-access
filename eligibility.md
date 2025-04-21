@@ -2,9 +2,10 @@
 
 Central funding will cover specific GovTech staff roles such as **Engineers, Product Managers, Delivery Managers, and Designers** for the pilot implementation. 
 
-![eligible-roles](assets/eligible-roles.png)
 
 <!--
+![eligible-roles](assets/eligible-roles.png)
+
 
 | Roles | Tools |
 |---|---|
@@ -12,13 +13,14 @@ Central funding will cover specific GovTech staff roles such as **Engineers, Pro
 | Product Managers, Delivery Managers, Engineers, and Designers | Jira |
 | Product Managers, Delivery Managers, Engineers, and Designers | Confluence |
 
--->
 
 ## Eligibility check 
 
 To  quickly check if you’re eligible, you can use this service: [**go.gov.sg/product-dev-tools-eligibility**](https://go.gov.sg/product-dev-tools-eligibility). 
 
 If you're eligible, the tool will display the group you belong to.
+
+-->
 
 | Group | Role | Tools |
 |---|---|--|
