@@ -28,7 +28,9 @@ If you're eligible, the tool will display the group you belong to.
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
 | Design | Designers | Jira, Confluence |
 
-?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative. 
+?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative.
+
+<!-- 
 
 ## 💡 Reminders
 
@@ -37,6 +39,16 @@ If you're eligible, the tool will display the group you belong to.
 - While some roles may not be eligible for this initial phase, the goal is to expand the initiative over time. Feedback will be essential in making the tools more accessible and useful for collaboration. Your input will play a key role in shaping future phases of the rollout.
 
 - For GovTechies (permanent and contract staff) in the specific roles mentioned above who are not eligible for the pilot, you can reach out to the team via Slack at the  [**#feedback-govtech-free-access**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) channel, and we will review on a case-by-case basis.
+
+-->
+
+## Inactive Users
+
+Free Access was created to make your development work smoother and more efficient. Regular use of these licenses helps us understand how these tools benefit our GovTech community and ensures we can provide the right resources to everyone who needs them. 
+
+To help us manage our licenses effectively and ensure they're available to those who need them most, we will be undergoing a regular clean-up process every 60 days. As part of this process, if a license remains unused after this period of 60 days, they will be reassigned to colleagues waiting to use them.  
+
+Please share any feedback via <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y">#feedback-govtech-free-access</a>  or [go.gov.sg/free-access-feedback](https://go.gov.sg/free-access-feedback).
 
 ## Access for TIVO Users (Temporaries, Interns, Vendors, Others)
 

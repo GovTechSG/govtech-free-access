@@ -2,7 +2,7 @@
 
 The Free Access initiative aims to simplify and centralise access to essential development tools for GovTech product teams, streamlining workflows, and reducing barriers to productivity.
 
-Launching in FY24, these tools will be made available to eligible GovTechies (permanent and contract staff) upon onboarding, enabling teams to focus on  building impactful products.
+Launched in FY24, these tools will be made available to eligible GovTechies (permanent and contract staff) upon onboarding, enabling teams to focus on  building impactful products.
 
 This initiative is centrally funded and led by the CIO Office and the Core Engineering Productivity teams, in partnership with [Open Data Access](https://docs.developer.tech.gov.sg/docs/open-data-access/). 
 
@@ -42,11 +42,12 @@ For more details, refer to [Eligible Roles and Tools](/eligibility.md).
 
 **If you're not included in the pilot right now**
 
-The Free Access pilot is centrally managed and roles were selected based on current usage patterns and needs.  While some teams and roles aren’t part of this first phase, we’re continuously reviewing data to guide how access is expanded or reassigned.
+The Free Access pilot is centrally managed and roles were selected based on current usage patterns and needs. While some teams and roles aren’t part of this first phase, we’re continuously reviewing data to guide how access is expanded or reassigned.
 
 * If your team is not part of first phase, you can continue to use licenses as part of your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subscription (for GitLab, Jira, Confluence) or you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
 * If you are in a role not covered as part of this pilot, you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription (for GitLab, Jira, Confluence) via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
 * If you're in a management or supervisory role, you can use these tools by signing up via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
+* If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot.  We regularly clean up and reassign unused licenses to our colleagues who need it. Please read [Inactive Users](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=inactive-users) section for more information. 
 
 **Still unsure?** 
 
@@ -55,12 +56,6 @@ If you don’t see your scenario covered, reach out to us via <a href="https://g
 **Help us improve** 
 
 Whether you’re already part of the pilot or hoping to join in the future, we’d love to hear your feedback: https://go.gov.sg/free-access-feedback. Please take 5 minutes to share your feedback. This will help us understand what’s working, what’s not, and how we can support you better.
-
-## Name change
-
-The Product Development Tools initative has been renamed to Free Access. This change better reflects the programme's core purpose: providing eligible GovTechies with free access to essential development tools. 
-
-While the name has changed, the initiative's objectives, benefits, scope, and operations remain the same. It will continue to be centrally funded by GovTech and managed by the CIO Office and Core Engineering Productivity teams. Eligible staff will still access the same tools through the same process, supporting GovTech's commitment to streamlined workflows and enhanced productivity.
 
 
 <!-- 
