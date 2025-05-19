@@ -17,5 +17,5 @@ Follow these steps to begin using SHIP-HATS:
    [Create projects →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/manage-projects?id=create-new-projects)
 
 4. **Add Project Tools**  
-   Select and configure your required SHIP-HATS tools.  
+   Select and configure your SHIP-HATS tools: GitLab, Jira, and Confluence.  
    [Add tools →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/manage-tools?id=manage-tools)
