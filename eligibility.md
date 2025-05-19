@@ -28,7 +28,7 @@ If you're eligible, the tool will display the group you belong to.
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
 | Design | Designers | Jira, Confluence |
 
-?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative. [[Learn more](#access-for-tivo-users-temporaries-interns-vendors-others)]
+?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative. Refer to [Access for TIVO Users (Temporaries, Interns, Vendors, Others)](#access-for-tivo-users-temporaries-interns-vendors-others) section for more information.
 
 <!-- 
 
@@ -43,7 +43,7 @@ If you're eligible, the tool will display the group you belong to.
 -->
 
 
-?> **Note:** If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot.  We regularly clean up and reassign unused licenses to our colleagues who need it. Please read [Inactive Users](#inactive-users) section for more information. 
+?> **Note:** If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot.  We regularly clean up and reassign unused licenses to our colleagues who need it. Refer to [Inactive Users](#inactive-users) section for more information. 
 
 ## Inactive Users
 
