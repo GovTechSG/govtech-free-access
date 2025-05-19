@@ -43,3 +43,10 @@ Check the docs (https://go.gov.sg/product-dev-tools). If you don’t see your sc
 
 Whether you’re already part of the pilot or hoping to join in the future, we’d love to hear your feedback: https://go.gov.sg/free-access-feedback. Please take 5 minutes to share your feedback. This will help us understand what’s working, what’s not, and how we can support you better.
 
+### February 2025
+
+#### Name change
+
+The Product Development Tools initative has been renamed to Free Access. This change better reflects the programme's core purpose: providing eligible GovTechies with free access to essential development tools. 
+
+While the name has changed, the initiative's objectives, benefits, scope, and operations remain the same. It will continue to be centrally funded by GovTech and managed by the CIO Office and Core Engineering Productivity teams. Eligible staff will still access the same tools through the same process, supporting GovTech's commitment to streamlined workflows and enhanced productivity.

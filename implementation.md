@@ -1,7 +1,5 @@
 # Implementation
 
-## How will this pilot work?
-
 - This pilot will run from Dec 2024 to Mar 2026.
 
 - Eligible users will be transferred from existing subscriptions into a central account.
@@ -16,13 +14,9 @@ The success of the pilot will encourage the team to expand coverage to other rel
 ## What do you need to do?
 
 
-If you're **eligible**, you will **automatically** be granted access to the centrally-funded tools.
+If you're eligible, you will **automatically** be granted access to the centrally-funded tools.
 
-**What actions can you take?**
-
-- You can check your eligiblity for the initiative. Refer to [Eligible Roles and Tools](/eligibility.md) for more information on eligibility.
-
-- If you have questions or suggestions, you can join the   [**#feedback-govtech-free-access**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) Slack channel to share your feedback.
+If you have questions or suggestions, [check the FAQs](/support.md) or you can join the [**#feedback-govtech-free-access**](https://govtech.enterprise.slack.com/archives/C07UF60HY9Y) Slack channel to share your questions or feedback.
 
 ## What is the impact to the subscription? 
 

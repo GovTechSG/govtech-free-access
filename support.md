@@ -48,10 +48,11 @@ Your feedback will help us understand what’s working, what’s not, and how we
     * If your team is not part of first phase, you can continue to use licenses as part of your existing [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) subscription (for GitLab, Jira, Confluence) or you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription via [TechBiz](https://portal.techbiz.suite.gov.sg/) and log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
     * If you are in a role not covered as part of this pilot, you can sign up for [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) subscription (for GitLab, Jira, Confluence) via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
     * If you're in a management or supervisory role, you can use these tools by signing up via [TechBiz](https://portal.techbiz.suite.gov.sg/) (log in with [TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)). 
+    * If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot.  We regularly clean up and reassign unused licenses to our colleagues who need it. Please read [Inactive Users](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=inactive-users) section for more information. 
 
 - **Are contractors eligible?**
 
-    No, contractors—including those hired under Bulk Tender 19024, 23009, or 23069—are not eligible for this initiative. The centrally funded tools are available only to full-time GovTech staff in eligible roles.
+    No, contractors—including those hired under Bulk Tender 19024, 23009, or 23069—are not eligible for this initiative ([Learn more](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others)). The centrally funded tools are available only to full-time GovTech staff in eligible roles. You may arrange access for your TIVO team members by obtaining licenses for them by [subscribing to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others).
 
 - **Why aren't Data Scientists included in the initiative?**
 
@@ -82,7 +83,9 @@ Your feedback will help us understand what’s working, what’s not, and how we
 
 - **What if I don't have a SHIP-HATS subscription?**
 
-    To qualify for the Free Access initiative, you need to be in an eligible role from the teams selected for the pilot. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned license(s) according to your role. For subscription accounts with eligible GovTechies, the licenses for GitLab, Jira, and Confluence assigned to them will be moved out of the existing account into a central GovTech account.
+    To qualify for the Free Access initiative, you need to be in an eligible role from the teams selected for the pilot. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned license(s) according to your role. For subscription accounts with eligible GovTechies, the licenses for GitLab, Jira, and Confluence assigned to them will be moved out of the existing account into a central GovTech account. 
+    
+    Please note that in some cases, despite being in an eligible role, you may not be assigned a free license because we have limited licenses in this pilot initiative. We regularly clean up and reassign unused licenses to our colleagues who need it.
 
 - **Will this affect SHIP-HATS subscription costs?**
 
@@ -106,12 +109,6 @@ Your feedback will help us understand what’s working, what’s not, and how we
 - **I'm trying to assign GitLab license to myself but system claims I'm already under another subscription. What should I do?**
 
     If the system indicates you're already in another subscription, it means you already have a license assigned, so there's no need to get another license (maximum 1 license per user). For project creation in your sub-group, you need at least a developer role. Check your role in your sub-group (go to sidebar > manage > members > search your name). If you don't have at least a developer role, you'll need to ask an owner or maintainer to grant you one.
-
-- **What does the central funding include and how do I create spaces?**
-
-    You will not have subscription rights for the subscription funded for you. However, you have two options:
-    - You can create a new SHIP-HATS account with a $0 base subscription, without any base or add-on
-    - Another Subscription Admin can add you as a Secondary Admin or Project Admin to their own subscription. This will allow you to create and manage a new Confluence space.
 
 ### Technical support
 
