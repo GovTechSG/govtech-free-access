@@ -28,7 +28,7 @@ If you're eligible, the tool will display the group you belong to.
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
 | Design | Designers | Jira, Confluence |
 
-?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative.
+?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative. [[Learn more](#access-for-tivo-users-temporaries-interns-vendors-others)]
 
 <!-- 
 
