@@ -52,7 +52,7 @@ Your feedback will help us understand what’s working, what’s not, and how we
 
 - **Are contractors eligible?**
 
-    No, contractors—including those hired under Bulk Tender 19024, 23009, or 23069—are not eligible for this initiative. The centrally funded tools are available only to full-time GovTech staff in eligible roles. You may arrange access for your TIVO team members by obtaining licenses for them by [subscribing to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others).
+    No, contractors—including those hired under Bulk Tender 19024, 23009, or 23069—are not eligible for this initiative ([Learn more](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others)). The centrally funded tools are available only to full-time GovTech staff in eligible roles. You may arrange access for your TIVO team members by obtaining licenses for them by [subscribing to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others).
 
 - **Why aren't Data Scientists included in the initiative?**
 
@@ -83,7 +83,9 @@ Your feedback will help us understand what’s working, what’s not, and how we
 
 - **What if I don't have a SHIP-HATS subscription?**
 
-    To qualify for the Free Access initiative, you need to be in an eligible role from the teams selected for the pilot. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned license(s) according to your role. For subscription accounts with eligible GovTechies, the licenses for GitLab, Jira, and Confluence assigned to them will be moved out of the existing account into a central GovTech account. Please note that in some cases, despite being in an eligible role, you may not be assigned a free license because we have limited licenses in this pilot initiative. We regularly clean up and reassign unused licenses to our colleagues who need it.
+    To qualify for the Free Access initiative, you need to be in an eligible role from the teams selected for the pilot. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned license(s) according to your role. For subscription accounts with eligible GovTechies, the licenses for GitLab, Jira, and Confluence assigned to them will be moved out of the existing account into a central GovTech account. 
+    
+    Please note that in some cases, despite being in an eligible role, you may not be assigned a free license because we have limited licenses in this pilot initiative. We regularly clean up and reassign unused licenses to our colleagues who need it.
 
 - **Will this affect SHIP-HATS subscription costs?**
 

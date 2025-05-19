@@ -42,6 +42,9 @@ If you're eligible, the tool will display the group you belong to.
 
 -->
 
+
+?> **Note:** If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot.  We regularly clean up and reassign unused licenses to our colleagues who need it. Please read [Inactive Users](#inactive-users) section for more information. 
+
 ## Inactive Users
 
 Free Access was created to make your development work smoother and more efficient. Regular use of these licenses helps us understand how these tools benefit our GovTech community and ensures we can provide the right resources to everyone who needs them. 
