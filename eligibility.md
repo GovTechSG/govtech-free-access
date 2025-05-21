@@ -27,7 +27,7 @@ Central funding will cover **specific GovTechies (direct and contract hires)** f
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
 | Design | Designers | Jira, Confluence |
 
-For the following roles, you are not currently not part of the pilot and will need to [subscribe to the tools via SHIP-HATS Subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription):
+For the following roles, you are not <u>currently not part of the pilot</u> and will need to [subscribe to the tools via SHIP-HATS Subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription):
 
 - GovTechies seconded at agencies
 - Agency users deployed at GovTech 
