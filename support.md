@@ -21,7 +21,7 @@ Your feedback will help us understand what’s working, what’s not, and how we
 
 - **What is the Free Access initiative?**
 
-    The Free Access initiative is designed to provide eligible GovTechies (e.g., Product Managers, Engineers, Designers) with centrally funded licenses for selected development tools, such as GitLab, Jira, and Confluence. Instead of individual teams or projects managing separate tool licenses, GovTech will centrally cover the costs, simplifying access to essential tools for eligible roles. More details on the tools covered will be shared as the rollout progresses.
+    The Free Access initiative is designed to provide eligible GovTechies (e.g., Product Managers, Engineers, Designers) with centrally funded licenses for selected development tools, such as GitLab, Jira, and Confluence. Instead of individual teams or projects managing separate tool licenses, GovTech will centrally cover the costs, simplifying access to essential tools for eligible roles. For more details, refer to [Eligible Roles and Tools](/eligibility.md).
 
 - **How do I know if I am eligible?**
     <!-- 
@@ -52,40 +52,48 @@ Your feedback will help us understand what’s working, what’s not, and how we
 
 - **Are contractors eligible?**
 
-    No, contractors—including those hired under Bulk Tender 19024, 23009, or 23069—are not eligible for this initiative ([Learn more](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others)). The centrally funded tools are available only to full-time GovTech staff in eligible roles. You may arrange access for your TIVO team members by obtaining licenses for them by [subscribing to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others).
+    No, contractors—including those hired under Bulk Tender 19024, 23009, or 23069—are not eligible for this initiative ([Learn more](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others)). The centrally funded tools are available only to full-time GovTech staff in eligible roles. You can arrange access for your TIVO team members by obtaining licenses for them by [subscribing to SHIP-HATS via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=access-for-tivo-users-temporaries-interns-vendors-others).
 
 - **Why aren't Data Scientists included in the initiative?**
 
-    Currently, this is a pilot initiative launched with a limited scope in mind. While this is just the beginning, we aim to gather feedback from GovTechies and observe if the tools are well utilised when we centralise and streamline access. Data scientists can still onboard the tools via TechBiz subscription. Those who already have access to SHIP-HATS will continue to have access via their TechBiz subscriptions. For example, a team of 10 people (5 engineers and 5 data scientists) may only need to subscribe for 5 instead of the previous 10, where the subscription and access to tools for the 5 engineers are managed centrally.
-
-- **I'm a Delivery Manager not in the eligible list. Can I be added?**
-
-    We're currently running the pilot for specific roles and groups in GovTech, and we do not have any short-term plans to add more users. The team will be gathering insights from the pilot groups before we evaluate how to extend the coverage to other relevant roles and groups in GovTech. In the meantime, you can still subscribe to SHIP-HATS via TechBiz or continue as a regular subscriber (if you already have access).
+    Currently, this is a pilot initiative launched with a limited scope in mind. While this is just the beginning, we aim to gather feedback from GovTechies and observe if the tools are well utilised when we centralise and streamline access. Data scientists can still onboard the tools by [subscribing to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) via [TechBiz](https://portal.techbiz.suite.gov.sg/) subscription. Those who already have access to SHIP-HATS will continue to have access via their TechBiz subscriptions. For example, a team of 10 people (5 engineers and 5 data scientists) may only need to subscribe for 5 instead of the previous 10, where the subscription and access to tools for the 5 engineers are managed centrally.
 
 - **Can Cloud Infra Engineers be part of the Pilot?**
 
-    We're rolling out this initiative to a pilot group of users and roles, but it does not affect how existing users of SHIP-HATS will access the tools. Your team should not be affected unless there are members who have yet to be onboarded to SHIP-HATS subscription via TechBiz. With the pilot, we're looking to gather more insights about how GovTechies are collaborating before we consider expanding to more roles and groups in GovTech. While we cannot add more participants to the pilot yet, this will be a possibility as we track its success.
+    We’re currently running the pilot for specific roles and groups in GovTech, and we do not have any short-term plans to add more users. The team will be gathering insights from the pilot groups before we evaluate how to extend the coverage to other relevant roles and groups in GovTech. In the meantime, you can still subscribe to SHIP-HATS via TechBiz or continue as a regular subscriber (if you already have access). 
 
 - **Are users with @gt.tech.gov.sg emails eligible for Free Access?**
 
-    No, the Free Access initiative only covers eligible full-time GovTech staff with @tech.gov.sg emails (managed in WOG Entra ID). Having a @gt.tech.gov.sg email alone doesn't guarantee Free Access eligibility.
+    No, the Free Access initiative only covers eligible full-time GovTech staff and direct GovTech contractors (managed in WOG Entra ID). Having a @tech.gov.sg email alone doesn't guarantee [Free Access eligibility](/eligibility.md).
 
 - **I'm an engineer who is holding concurrent roles or I am a dual appointment holder. Am I eligible for this?**
 
     If you are a dual appointment holder or holding concurrent roles, you are currently not eligible for the Free Access initiative.
 
+- **I would like to request for Free Access initiative for two of our staff from another agency who have GovTech email. Who is able to assist us with this request? Their access will be required for them to fulfil their work in GovTech.**
+
+    At the moment, the current initiative is for GovTechies only, so we do not take in such requests. If the staff are attached from another agency, you will need to subscribe for them. You can share feedback in the channel <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y">#feedback-govtech-free-access</a> or https://go.gov.sg/free-access-feedback. Any feedback shared is a data point for us to assess and review before we rollout to more GovTechies.
+    
+- **I'm not part of the Free Access initiative, but I'd like to gain access to Jira / Confluence please. How can I go about with this?**
+
+    We've not rolled out to all roles and GovTechies as we're still running as a pilot. Currently, we are not taking in any requests to grant licenses to folks outside of the pilot. However, we're collecting data and feedback via <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y">#feedback-govtech-free-access</a> as well as measurements on the tools in terms of usage before we review how we expand the rollout to the rest of govtech. For the users who are not part of the pilot initiatives, we encourage them to sign up and subscribe to [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) via [TechBiz](https://portal.techbiz.suite.gov.sg/) to get access to the tools. 
+
+- **We have a new joiner and want to check if they will get their subscription for JIRA, Confluence, and Gitlab on the day he joins? If not, how long do we have to wait?**
+
+    To set up tool access for your new team member, you can subscribe to [SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription) via [TechBiz](https://portal.techbiz.suite.gov.sg/). For more information on the limited scope of the pilot, refer to our [Eligible roles and tools](/eligibility.md).
+
 ### Subscription management
 
 - **Will there be updates to subscription accounts?**
 
-    During this transition, TechBiz subscription accounts will be updated as licensed users are moved to a centrally managed GovTech subscription. Subscription Admins (SAs) should be aware that not all subscriptions will be affected, but licenses assigned in your accounts will be reduced when users are transferred. An automated communication has been sent to affected SAs with detailed information about these changes.
+    When users with existing access to tools is included in this initiative, their TechBiz subscription accounts will be updated as licensed users are moved to a centrally managed GovTech subscription. Subscription Admins (SAs) should be aware that not all subscriptions will be affected, but licenses assigned in your accounts will be reduced when users are transferred. An automated communication has been sent to affected SAs with detailed information about these changes.
 
 
 - **What if I don't have a SHIP-HATS subscription?**
 
-    To qualify for the Free Access initiative, you need to be in an eligible role from the teams selected for the pilot. If you do not have an existing SHIP-HATS subscription, you will automatically be assigned license(s) according to your role. For subscription accounts with eligible GovTechies, the licenses for GitLab, Jira, and Confluence assigned to them will be moved out of the existing account into a central GovTech account. 
+    To qualify for the Free Access initiative, you need to be in an eligible role from the teams selected for the pilot. If you do not have an existing SHIP-HATS subscription but meet the criteria in [Eligible roles and tools](/eligibility.md), you will be assigned license(s) according to your role.
     
-    Please note that in some cases, despite being in an eligible role, you may not be assigned a free license because we have limited licenses in this pilot initiative. We regularly clean up and reassign unused licenses to our colleagues who need it.
+    Please note that in some cases, despite being in an eligible role, you may not be assigned a free license because we have limited licenses in this pilot initiative. We regularly clean up and reassign unused licenses to our colleagues who need it. Refer to [Inactive Users](https://docs.developer.tech.gov.sg/docs/free-access/eligibility?id=inactive-users).
 
 - **Will this affect SHIP-HATS subscription costs?**
 
@@ -108,13 +116,19 @@ Your feedback will help us understand what’s working, what’s not, and how we
 
 - **I'm trying to assign GitLab license to myself but system claims I'm already under another subscription. What should I do?**
 
-    If the system indicates you're already in another subscription, it means you already have a license assigned, so there's no need to get another license (maximum 1 license per user). For project creation in your sub-group, you need at least a developer role. Check your role in your sub-group (go to sidebar > manage > members > search your name). If you don't have at least a developer role, you'll need to ask an owner or maintainer to grant you one.
+    <!-- If the system indicates you're already in another subscription, it means you already have a license assigned, so there's no need to get another license (maximum 1 license per user). For project creation in your sub-group, you need at least a developer role. Check your role in your sub-group (go to sidebar > manage > members > search your name). If you don't have at least a developer role, you'll need to ask an owner or maintainer to grant you one. -->
+
+    If the system indicates you're already in another subscription, it means you have already been provisioned a GitLab licence, so there's no need to get another license (maximum 1 license per user). To create projects in your sub-group, you need at least a **Developer** role. If you are unable to create, verify your role in your GitLab sub-group:
+
+    1. In the GitLab subgroup, go to the sidebar and select  Manage > Members.
+    2. Search for your name and verify your role.
+    3. If your role is below **Developer** (e.g., **Reporter**),  ask your **Subscription Administrator (SA)** to upgrade your role. To know how to identify your SA, refer to [View your subscription details](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/users-self-help?id=to-view-your-subscription-details).
 
 ### Technical support
 
 - **Having trouble accessing Atlassian?**
 
-    If you see "Looks like your administrator has marked your account as inactive", you can submit the SHIP-HATS Atlassian User Account Reactivation Form. This should provide an automatic response and activate your account if you have a valid SHIP-HATS Atlassian license.
+    If you see "Looks like your administrator has marked your account as inactive", you can submit the [SHIP-HATS Atlassian User Account Reactivation Form](https://go.gov.sg/ship-hats-atlassian-self-service). This should provide an automatic response and activate your account if you have a valid SHIP-HATS Atlassian license. For more information, refer to [SHIP-HATS contact page](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/support/raise-service-request).
 
 - **I've checked that I am eligible but don't have access to sgtechstack.atlassian.net. What should I do?**
 

@@ -4,18 +4,20 @@ The Free Access initiative provides [eligible GovTechies](/eligibility.md) with 
 
 Follow these steps to begin using SHIP-HATS:
 
-1. **Onboard to SHIP-HATS**  
+1. [Begin onboarding to SHIP-HATS →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/onboard-via-ship-hats-portal?id=step-2-onboard-to-ship-hats)
+
    Complete the onboarding process to access the SHIP-HATS Portal.  
-   [Begin onboarding →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/onboard-via-ship-hats-portal?id=step-2-onboard-to-ship-hats)
+   
 
-2. **Configure GitLab**  
+2. [Configure GitLab →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/configure-gitlab?id=step-3-configure-gitlab)
+
    Set up your GitLab environment.  
-   [Configure GitLab →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/configure-gitlab?id=step-3-configure-gitlab)
 
-3. **Create Projects**  
+3. [Create projects →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/manage-projects?id=create-new-projects)
+
    Set up and manage projects.  
-   [Create projects →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/manage-projects?id=create-new-projects)
+   
 
-4. **Add Project Tools**  
-   Select and configure your SHIP-HATS tools: GitLab, Jira, and Confluence.  
-   [Add tools →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/manage-tools?id=manage-tools)
+4. [Add tools →](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/manage-tools?id=manage-tools)
+
+   Select and configure your SHIP-HATS tools: GitLab, Jira, and Confluence. 

@@ -1,8 +1,5 @@
 # Eligible Roles and Tools
 
-Central funding will cover specific GovTech staff roles such as **Engineers, Product Managers, Delivery Managers, and Designers** for the pilot implementation. 
-
-
 <!--
 ![eligible-roles](assets/eligible-roles.png)
 
@@ -21,6 +18,8 @@ To  quickly check if you’re eligible, you can use this service: [**go.gov.sg/p
 If you're eligible, the tool will display the group you belong to.
 
 -->
+
+Central funding will cover **specific GovTechies (direct and contract hires)** for the pilot implementation as shown in the table below: 
 
 | Group | Role | Tools |
 |---|---|--|
