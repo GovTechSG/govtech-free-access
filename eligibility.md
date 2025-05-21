@@ -27,7 +27,14 @@ Central funding will cover **specific GovTechies (direct and contract hires)** f
 | Product | Product Managers, Delivery Managers | Jira, Confluence |
 | Design | Designers | Jira, Confluence |
 
-?> **Note:** Vendors and augmented staff (in any role) from Bulk Tenders 19024, 23009, or 23069 are not eligible for this initiative. Refer to [Access for TIVO Users (Temporaries, Interns, Vendors, Others)](#access-for-tivo-users-temporaries-interns-vendors-others) section for more information.
+For the following roles, you are not currently not part of the pilot and will need to [subscribe to the tools via SHIP-HATS Subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/subscription):
+
+- GovTechies seconded at agencies
+- Agency users deployed at GovTech 
+- Temporaries, Interns, Vendors, Others [[Learn more](#access-for-tivo-users-temporaries-interns-vendors-others)] 
+- Vendors and augmented staff (in any role) with tech.gov.sg emails, e.g., ATS (23069), Contractors (23009), or 19024 [[Learn more](#access-for-tivo-users-temporaries-interns-vendors-others)] 
+
+If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot. We regularly clean up and reassign unused licenses to our colleagues who need it. Please read the  [Inactive Users](#inactive-users) section for more information.
 
 <!-- 
 
@@ -41,8 +48,7 @@ Central funding will cover **specific GovTechies (direct and contract hires)** f
 
 -->
 
-
-?> **Note:** If you are in an eligible role and team but still do not have access to licenses under Free Access, this might be because we have limited licenses available as part of this pilot.  We regularly clean up and reassign unused licenses to our colleagues who need it. Refer to [Inactive Users](#inactive-users) section for more information. 
+For specific queries on eligibility, reach out to us via Slack: <a href="https://govtech.enterprise.slack.com/archives/C07UF60HY9Y">#feedback-govtech-free-access</a>
 
 ## Inactive Users
 
