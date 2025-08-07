@@ -18,7 +18,7 @@ Follow these steps to begin using SHIP-HATS:
 
 ---
 
-### Tool-specific SHIP-HATS Guides
+### SHIP-HATS Tools Guides
 
 - [GitLab Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/tools/gitlab/gitlab-overview)  
 - [Jira Guide](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/tools/jira/jira-overview)  
