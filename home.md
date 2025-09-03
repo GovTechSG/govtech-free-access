@@ -6,7 +6,7 @@ Launched in FY24, these tools will be made available to eligible GovTechies (per
 
 This initiative is centrally funded and led by the CIO Office and the Core Engineering Productivity teams, in partnership with [Open Data Access](https://docs.developer.tech.gov.sg/docs/open-data-access/). 
 
-## Why are we doing this?
+## The purpose of this initiative
 
 ![why-we-are-doing-this](assets/whyarewedoingthis.png)
 
