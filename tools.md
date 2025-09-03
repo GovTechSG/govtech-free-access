@@ -1,4 +1,4 @@
-# What are the Standard Tools?
+# Standard tools
 
 These are the standard tools available to help teams collaborate, manage projects, and build products effectively. More tools will be added soon to further boost your productivity—stay tuned!  
 

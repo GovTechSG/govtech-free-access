@@ -18,5 +18,5 @@ Our current decentralised approach to procuring development tools has created so
 
 This initiative seeks to reduce these challenges, so that GovTech engineers and product teams can focus on core activities rather than navigating tool acquisition and budgeting processes.
 
-!> Important: To ensure responsible use of our shared resources, tools that are not actively used over time may be reallocated to others who can benefit from them. Due to overwhelming demand, some tools have already reached their license limits. We appreciate your patience as we work to process access requests.
+!> Important: To ensure responsible use of our shared resources, tools that are not actively used over time may be reallocated to others who can benefit from them. For more information, refer to [Usage guidelines](guidelines.md). Due to overwhelming demand, some tools have already reached their license limits. We appreciate your patience as we work to process access requests.
 
