@@ -10,8 +10,7 @@ You may also contact the CIO Office at **cio_office_ops@tech.gov.sg**.
 
 ## Tool-specific support  
 
-For technical support, account subscription or reactivation, product feedback, or SG Tech Stack–related matters for **Jira, Confluence, or GitLab**, please refer to:  
-[SHIP-HATS support](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/support/raise-service-request).  
+For technical support, account subscription or reactivation, product feedback, or SG Tech Stack–related matters for Jira, Confluence, or GitLab, please refer to [SHIP-HATS support](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/support/raise-service-request).  
 
 ## Feedback
 

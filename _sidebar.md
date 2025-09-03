@@ -2,4 +2,5 @@
 - [Standard tools](tools.md)
 - [Request access](eligibility.md)
 - [Usage guidelines](guidelines.md)
+- [Get started](getting-started.md)
 - [Support](support.md)

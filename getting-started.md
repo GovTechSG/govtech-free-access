@@ -1,8 +1,8 @@
-# Getting started with Free Access Tools
+# Getting started
 
-The Free Access initiative provides [eligible GovTechies](/eligibility.md) with free access to the following SHIP-HATS tools: **GitLab**, **Jira**, and **Confluence**.
+## GitLab, Jira, Confluence
 
-Follow these steps to begin using SHIP-HATS:
+Follow these steps to begin using SHIP-HATS (GitLab, Jira, Confluence):
 
 1. [**Onboard to SHIP-HATS →**](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/getting-started/onboard-via-ship-hats-portal?id=step-2-onboard-to-ship-hats)  
    Complete the onboarding process to activate your SHIP-HATS account.
