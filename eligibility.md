@@ -16,3 +16,6 @@ All permanent staff and direct contract GovTechies with a Workday email account 
 ## How to request access
 
 Submit your request via this form: [go.gov.sg/ciooffice-software-request](https://go.gov.sg/ciooffice-software-request)  
+
+You will receive a confirmation email with the outcome of your request.
+
